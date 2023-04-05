@@ -1,7 +1,7 @@
 /* define font-face */
 @font-face {
-    font-family: 'PPCirka Light';
-    src: url('https://cdn.jsdelivr.net/gh/TarunJuluru/Super-Fonts@a69773a70becfb4ccd87a2a64821563e4b99f372/Fonts/PPCirka-Light.otf') format('opentype');
+    font-family: 'font name';
+    src: url('https://cdn.jsdelivr.net/gh/TarunJuluru/Super-Fonts@a69773a70becfb4ccd87a2a64821563e4b99f372/Fonts/fontname.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
